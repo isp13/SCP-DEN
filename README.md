@@ -6,4 +6,4 @@
 - [Инцидент Джефрис](insideHSE/Jeffries.md)
 
 # Инциденты во внешнем мире
-- [Инцидент Эль-Патио](insideHSE/Elpatio.md)
+- [Инцидент Эль-Патио](outsideHSE/Elpatio.md)
