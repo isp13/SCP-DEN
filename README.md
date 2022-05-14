@@ -7,3 +7,4 @@
 
 # Инциденты во внешнем мире
 - [Инцидент Эль-Патио](outsideHSE/Elpatio.md)
+- [Инцидент Республика](outsideHSE/Respublica.md)
